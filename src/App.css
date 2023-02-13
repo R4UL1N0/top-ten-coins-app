@@ -1,0 +1,24 @@
+#root {
+  width: 100vw;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  
+}
+
+.coins-grid {
+  display: grid;
+  width: 100%;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  
+}
+
+.cointainer {
+  margin: 10px;
+  padding: 15px;
+  border: 2px solid white;
+
+}
